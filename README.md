@@ -37,14 +37,19 @@ Example
 
 nano loading.py
 
+(I'm assuming you installed python)
+
 Then,go to login.sh and add
 
 cd $HOME
 cd lock
 python3 loading.py
+sleep 1
+clear
 
-![IMG_20240919_182938](https://github.com/user-attachments/assets/1020f11e-c4cb-48b2-8330-cf85a6faddeb)
+![IMG_20240919_185944](https://github.com/user-attachments/assets/ea1640bb-395e-44e4-9a6a-ca584fec2520)
 
-And you can add script more but make your to give the right directory.
+And you can add more script but make your to give the right directory.
 
-At The End ,if you want to remove this lock contact me up
+At The End ,if you want to remove this lock 
+contact me up 
