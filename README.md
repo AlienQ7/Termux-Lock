@@ -17,7 +17,7 @@ then
 
 ,,,
 
-git clone https://github.com/AlienQ7/Termux-lock.git
+git clone https://github.com/AlienQ7/TermuxLock.git
 
 chmod +x signup.sh login.sh
 
