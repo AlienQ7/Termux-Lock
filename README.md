@@ -22,6 +22,7 @@ git clone https://github.com/AlienQ7/TermuxLock.git
 chmod +x signup.sh login.sh
 
 bash login.sh or ./login.sh
+
 ,,,
 
 Then enter your username and password and Don't forget it
