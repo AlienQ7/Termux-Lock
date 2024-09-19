@@ -55,7 +55,7 @@ if [[ \$pass == $password && \$user == $username ]]; then
 sleep 0.5
 clear
 PS1='\n\033[1;91m  ┌─[\033[1;37m~\033[1;31m⟨«\033[34m$names\033[31m»⟩\033[1;37m~\033[1;32m[\033[1;35m\#\033[32m]\033[37m\n【Hacker】>
-espeak -v en+f4 -s 143 -p 48 " Login Succesfull. Welcome Aboard."
+espeak -v en+f4 -s 143 -p 48 " Login Succesfull."
 
 << comment
 shopt -s autocd
