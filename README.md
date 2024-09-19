@@ -2,31 +2,31 @@ To install this you need to install
 
 run
 
-apt update & apt upgrade -y
+'apt update & apt upgrade -y'
 
-apt install cmatrix -y
+'apt install cmatrix -y'
 
-apt install espeak-static -y
+'apt install espeak-static -y'
 
 (Python is Optional )
 
-apt install python -y
+'apt install python -y'
 
 Then 
 
-mkdir lock
+'mkdir lock'
 
-cd lock
+'cd lock'
 
-nano signup.sh
+'nano signup.sh'
 
-chmod +x signup.sh
+'chmod +x signup.sh'
 
-nano login.sh
+'nano login.sh'
 
-chmod +x login.sh
+'chmod +x login.sh'
 
-bash login.sh or ./login.sh
+'bash login.sh' or './login.sh'
 
 Then enter your username and password and Don't forget it
 now,
@@ -35,7 +35,7 @@ make script and out into login.sh and run it.
 Example 
 (within same directory)
 
-nano loading.py
+'nano loading.py'
 
 (I'm assuming you installed python)
 
